@@ -9,3 +9,5 @@ Total APK Size in ormaapp-release-unsigned.apk in bytes: 1014550 # diff from app
 Total APK Size in realmapp-release-unsigned.apk in bytes: 4876247 # diff from app-release-unsigned.apk: 3888kb
 ```
 
+* Orma v2.4.1
+* Realm v0.88.3
