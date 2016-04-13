@@ -1,1 +1,1 @@
-include ':app', ':realmapp', ':ormaapp'
+include ':app', ':realmapp', ':ormaapp', ':requeryapp'
